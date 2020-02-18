@@ -8,8 +8,8 @@
 //#include <GxGDEW075T8/GxGDEW075T8.h>      // 7.5" b/w
 //#include <GxGDEW075T8/GxGDEW075T8.cpp>
 // select the display class to use, only one
-//#include <GxGDEW075Z09/GxGDEW075Z09.h>    // 7.5" b/w/r
-#include <GxGDEW075Z08/GxGDEW075Z08.h>    // 7.5" b/w/r 800x480
+#include <GxGDEW075Z09/GxGDEW075Z09.h>    // 7.5" b/w/r  640x384
+//#include <GxGDEW075Z08/GxGDEW075Z08.h>    // 7.5" b/w/r 800x480
 //#include GxEPD_BitmapExamples
 
 // FreeFonts from Adafruit_GFX
